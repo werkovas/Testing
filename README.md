@@ -8,5 +8,5 @@ https://docs.google.com/document/d/1mkn7lvO_PRuqMvtfIe_QAo3zQf-0UvaEugPO7P3Q_tQ/
 
 <p>
   I'm creating a link to
-  <a href="https://www.mozilla.org/en-US/](https://docs.google.com/document/d/1mkn7lvO_PRuqMvtfIe_QAo3zQf-0UvaEugPO7P3Q_tQ/edit?usp=sharing">the Mozilla homepage</a>.
+  <a href=https://docs.google.com/document/d/1mkn7lvO_PRuqMvtfIe_QAo3zQf-0UvaEugPO7P3Q_tQ/edit?usp=sharing">the Mozilla homepage</a>.
 </p>
